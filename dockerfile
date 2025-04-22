@@ -1,5 +1,5 @@
 # ベースイメージとしてNVIDIAの公式CUDAイメージを使用
-FROM nvidia/cuda:12.2.0-devel-ubuntu22.04
+FROM nvidia/cuda:12.4.0-devel-ubuntu22.04
 
 # 環境変数を設定
 ENV DEBIAN_FRONTEND=noninteractive
