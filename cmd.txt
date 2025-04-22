@@ -1,0 +1,3 @@
+https://www.google.com/intl/ja/account/about/
+
+https://colab.research.google.com/

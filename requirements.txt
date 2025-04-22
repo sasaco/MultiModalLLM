@@ -1,0 +1,15 @@
+jupyterlab
+ipykernel
+numpy==1.24.3
+matplotlib==3.7.1
+torch==2.0.1+cu118 # 2.5.1
+torchvision==0.15.2+cu118 # 0.20.1
+torchaudio==2.0.2+cu118  # 2.5.1
+triton==3.1.0
+pytorch-metric-learning==2.8.1
+faiss-gpu-cu12==1.9.0
+tsnecuda==3.0.1+cu122
+open_clip_torch==2.30.0
+transformers==4.47.0
+bitsandbytes==0.45.0
+
