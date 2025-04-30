@@ -12,4 +12,4 @@ tsnecuda==3.0.1
 open_clip_torch==2.30.0
 transformers==4.47.0
 bitsandbytes==0.45.0
-
+accelerate>=0.26.0
